@@ -1,0 +1,18 @@
+p{
+    text-align: justify;
+    display: flex;
+    
+}
+
+img{
+    margin: 15px;
+}
+.AlinharAocentro{
+    display: flex;
+    justify-content: center;
+}
+
+#video{
+
+    border-radius: 15px;
+}
